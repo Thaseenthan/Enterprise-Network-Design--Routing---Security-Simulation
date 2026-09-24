@@ -38,7 +38,8 @@ The network consists of:
 - **PC-Branch**
 - **Internet Server**
 
-## Project Overview
+## How to Use
+
 1. Install Cisco Packet Tracer.
 2. Download or clone this repository.
 3. Open:
